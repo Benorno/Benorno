@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Benorno
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning PHP,JS,CSS,HTML
+- 📫 Reach me on Instagram @Benorno
