@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Benorno
+- 👋 Hi, I’m Benorno
 - 👀 I’m interested in PHP development
-- 🌱 I’m currently learning PHP,MySQL
+- 🌱 I’m currently learning Laravel
 - 📫 Reach me on Instagram @Benorno
